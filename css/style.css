@@ -21,7 +21,9 @@ body{
   background-color: white;
   font-size: 60px;
   font-family: sans-serif;
-  padding: 10px;
+  padding-left: 30px;
+  padding-top: 10px;
+
 }
 
 header .header-top img{
@@ -93,8 +95,9 @@ span{
 .cross{
   color: rgb(239, 11, 11);
   font-size: 40px;
-  
 }
+
+
 
 .editorial, .green, .goals, .recruiting, .sales, .website, .mobile{
   background-color: #4aadf2;

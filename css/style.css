@@ -12,8 +12,9 @@ body{
   margin: 50px auto;
   background-color: white;
   height: 1000px;
-  
+  padding-left: 100px;
 }
+
 
 .header-top{
   height: 100px;
@@ -95,7 +96,7 @@ span{
   
 }
 
-.editorial, .green, .goals{
+.editorial, .green, .goals, .recruiting, .sales, .website, .mobile{
   background-color: #4aadf2;
   margin-left: 20px;
   border-radius: 15px;
@@ -105,4 +106,19 @@ span{
   font-size: 20px;
   color: white;
   padding-top: 7px;
+}
+.goals{
+  background-color: blueviolet;
+}
+.recruiting{
+  background-color: cadetblue;
+}
+.mobile{
+  background-color: coral;
+}
+.website{
+  background-color: deeppink;
+}
+.sales{
+  background-color: chartreuse;
 }

@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: aliceblue;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.header-top{
+  height: 100px;
+  background-color: white;
+  font-size: 60px;
+  font-family: sans-serif;
+  padding: 10px;
+}
+
+header .header-top img{
+  width: 80px;
+  vertical-align: middle;
+  margin-right: 0;
+}
+span{
+  margin-left: 0;
+}

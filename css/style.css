@@ -8,8 +8,11 @@ body{
 }
 
 .container {
-  max-width: 900px;
-  margin: 0 auto;
+  max-width: 1000px;
+  margin: 50px auto;
+  background-color: white;
+  height: 1000px;
+  
 }
 
 .header-top{
@@ -27,4 +30,56 @@ header .header-top img{
 }
 span{
   margin-left: 0;
+}
+
+.task{
+  width: 120px;
+  height: 40px;
+  text-align: center;
+  color: white;
+  background-color: #4aadf2;
+  padding-top: 7px;
+  border-radius: 10px;
+  font-size: 20px;
+  margin-right: 9px;
+  
+
+}
+.section{
+  width: 120px;
+  height: 40px;
+  text-align: center;
+  color: rgb(159, 156, 156);
+  background-color: white;
+  padding-top: 7px;
+  border-radius: 10px;
+  font-size: 20px;
+  border-color: gray;
+  border-style: solid;
+  border-width: 3px;
+  
+  
+}
+.display{
+  display: flex;
+}
+
+.second{
+  font-size: 30px;
+  font-family: ;
+}
+
+.cont{
+  display: flex;
+  padding: 5px;
+}
+.check{
+  background-color: white;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  border-style: solid;
+  border-width: 2px;
+  font-size: 25px;
+  text-align: center;
 }
